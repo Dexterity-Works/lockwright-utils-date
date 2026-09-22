@@ -28,7 +28,7 @@ Community fork of PearPass (Apache 2.0). Not affiliated with or endorsed by Teth
 
 ## Security Notice
 
-Imports stay `@tetherto/pear-apps-utils-date`. That npm name is not this fork if you install it from the npm registry.
+The package name is `lockwright-utils-date`.
 
 ## Installation
 
@@ -41,7 +41,7 @@ npm install git+https://github.com/Dexterity-Works/lockwright-utils-date.git
 Import the functions you need:
 
 ```javascript
-import { formatDate, isAfter, isBefore } from '@tetherto/pear-apps-utils-date';
+import { formatDate, isAfter, isBefore } from 'lockwright-utils-date';
 ```
 
 ## Examples

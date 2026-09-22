@@ -1,5 +1,5 @@
 {
-  "name": "@tetherto/pear-apps-utils-date",
+  "name": "lockwright-utils-date",
   "version": "0.0.8",
   "description": "utility for formating and sorting dates",
   "main": "index.js",
